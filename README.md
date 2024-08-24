@@ -1,6 +1,6 @@
 -  Hello, I’m @44David.
 -  I’m interested in CLI tools, linux, machine learning, web apps and more.
--  I’m currently learning C++, Shell script and Typescript.
+-  I’m currently learning C++, Shell script and go.
 -  I’m looking to collaborate on C++ projects or Javascript projects.
 
 <!---
