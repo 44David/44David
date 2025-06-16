@@ -1,7 +1,7 @@
 Hello, I’m @44David,
 
 - I’m interested in:
-  - neural neworks, natural language processing, reasoning models and systems programming 
+  - neural networks, natural language processing, reasoning models and systems programming 
 - I’m currently:
   - studying deep learning theory and implementations
   - building [a fast, simple to use learning app](https://github.com/Arusai-Dev/dante-app) 
